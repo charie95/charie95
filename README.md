@@ -46,7 +46,7 @@
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
 | 🧭 GlobalNomad | 팀 프로젝트. 여행 체험 예약 플랫폼. | [보러가기](https://github.com/charie95/globalnomad-myver) |
-| 🎧 WHINE | 음악 추천 커뮤니티 플랫폼 | [보러가기](https://github.com/charie95/WHINE) |
+| 🎧 WHINE | 와인 리뷰 플랫폼 | [보러가기](https://github.com/charie95/WHINE) |
 
 ---
 
