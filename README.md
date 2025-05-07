@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Charlie95
 
-안녕하세요! 프론트엔드 개발자를 꿈꾸는 charie95입니다.  
+안녕하세요! 프론트엔드 개발자 이유섭입니다.  
 사용자 경험을 중요하게 생각하며, 깔끔하고 유지보수 쉬운 코드를 추구합니다.
 
 ---
@@ -45,8 +45,8 @@
 
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
-| 🧭 GlobalNomad | 팀 프로젝트. 여행 체험 예약 플랫폼. | [보러가기](https://github.com/charie95/globalnomad-myver) |
-| 🎧 WHINE | 와인 리뷰 플랫폼 | [보러가기](https://github.com/charie95/WHINE) |
+| 🧭 GlobalNomad | 팀 프로젝트. 여행 체험 예약 플랫폼. | [보러가기]([https://github.com/charie95/globalnomad-myver](https://github.com/charie95/globalnomad)) |
+| 🎧 WHYNE | 와인 리뷰 플랫폼 | [보러가기]([https://github.com/charie95/WHINE](https://github.com/charie95/WHYNE)) |
 
 ---
 
